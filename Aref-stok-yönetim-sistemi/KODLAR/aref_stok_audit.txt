@@ -1,0 +1,8 @@
+UST;5;AREF-832424;Mont/Ceket;600;3000.0;Dik Yaka;5;#757575;�smail Efe �zmire
+ALT;8;AREF-699295;�ort;900;1000.0;Boru Pa�a;5;#1A237E;Alperen Aydo�an
+ALT;4;AREF-577802;Kargo Pantolon;678;900.0;Boru Pa�a;5;#FFFFFF;Arda Kas�m F�rt�na
+ALT;3;AREF-735749;�ort;6;600.0;�spanyol Pa�a;5;#2E7D32;Arda Kas�m F�rt�na
+UST;2;AREF-371664;Kazak;123;555.0;V Yaka;5;#212121;Arda Kas�m F�rt�na
+ALT;7;AREF-717778;Kargo Pantolon;100;600.0;Geni� Pa�a;5;#E65100;Erce Emiro�lu
+UST;7;AREF-827126;Sweatshirt;38;700.0;V Yaka;5;#F57F17;Talha �elik
+UST;6;AREF-728998;Kazak;650;2199.0;Polo Yaka;5;#1B5E20;Talha �elik
